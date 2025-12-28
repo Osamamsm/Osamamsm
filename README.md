@@ -2,14 +2,37 @@
 
 ### Flutter Developer
 
+ Flutter Developer specializing in building scalable, high-performance mobile applications using clean architecture and modern state management. Experienced in REST APIs, and Firebase integration, with a strong focus on UI/UX quality and maintainable code.
+
 - 🔭 I'm currently working on **an e-commerce project**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1aj3sTWiGWNm9WztdKbWEuCt_48tW_umX/view?usp=sharing](https://drive.google.com/file/d/1aj3sTWiGWNm9WztdKbWEuCt_48tW_umX/view?usp=sharing)**
 
+---
+
+
+## 🧠 Technical Skills
+
+- **Mobile Development:** Flutter, Dart  
+- **Architecture:** Clean Architecture, MVVM  
+- **State Management:** Bloc, Cubit  
+- **Backend & Services:** Firebase Authentication, Firestore, REST API  
+- **Local Storage:** SQLite, SharedPreferences   
+- **Tools:** Git, Github, Postman  
+
+---
+
+## 📚 Currently Learning
+- Provider state management 
+- Supabase
+- local and push notifications
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Osamamsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Osamamsm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Osama Selim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Osama Selim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osama-selim-flutter-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Osama Selim" height="30" width="40" /></a>
 <a href="https://fb.com/osamaselim216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osamaselim216" height="30" width="40" /></a>
 <a href="https://leetcode.com/osamamsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osamamsm" height="30" width="40" /></a>
 </p>
@@ -20,5 +43,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osamamsm&" alt="Osamamsm" /></p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Osamamsm&show_icons=true&theme=default" />
+</p>
 
 
