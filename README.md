@@ -15,16 +15,15 @@
 
 - **Mobile Development:** Flutter, Dart  
 - **Architecture:** Clean Architecture, MVVM  
-- **State Management:** Bloc, Cubit  
-- **Backend & Services:** Firebase Authentication, Firestore, REST API  
+- **State Management:** Bloc, Cubit, Riverpod
+- **Backend & Services:** Firebase Authentication, Firestore, REST API, Supabase 
 - **Local Storage:** SQLite, SharedPreferences   
-- **Tools:** Git, Github, Postman  
+- **Tools:** Git, Github, Postman, VScode ,Android Studio  
 
 ---
 
 ## 📚 Currently Learning
-- Provider state management 
-- Supabase
+- Provider state management
 - local and push notifications
 
 ---
