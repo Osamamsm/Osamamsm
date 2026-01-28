@@ -24,6 +24,7 @@
 
 ## 📚 Currently Learning
 - Provider state management
+- Platform Channels
 - local and push notifications
 
 ---
